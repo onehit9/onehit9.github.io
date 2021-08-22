@@ -17,4 +17,38 @@ https://www.tistory.com/oauth/authorize?
   &state={state-param}
 
 
- 
+https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=https%3A%2F%2Fgoodsaem.tistory.com%2F&response_type=code
+
+
+https%3A%2F%2Fonehit9.github.io%2F
+
+https://onehit9.github.io/
+
+
+ https://www.tistory.com/oauth/authorize?
+  client_id={client-id}
+  &redirect_uri={redirect-uri}
+  &response_type=code
+  &state={state-param}
+
+
+
+
+https://goodsaem.tistory.com/?code=0c6caddf587cefec77b374a8e01baa136aa74ea321ad70182cc09ca00c3cf3d1567871c8&state=ss
+
+
+https://www.tistory.com/apis/post/write?
+  access_token={access-token}
+  &output={output-type}
+  &blogName={blog-name}
+  &title={title}
+  &content={content}
+  &visibility={visibility}
+  &category={category-id}
+  &published={published}
+  &slogan={slogan}
+  &tag={tag}
+  &acceptComment={acceptComment}
+  &password={password}
+
+
