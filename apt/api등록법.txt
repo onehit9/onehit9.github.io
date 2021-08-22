@@ -19,8 +19,14 @@ https://www.tistory.com/oauth/authorize?
 
 https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=https%3A%2F%2Fgoodsaem.tistory.com%2F&response_type=code
 
+https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=https%3A%2F%2Fonehit9.github.io%2F&response_type=code
 
-https%3A%2F%2Fonehit9.github.io%2F
+
+https://www.tistory.com/oauth/access_token?client_id=b90feeb40c82948b7da73389d1292788&client_secret=&redirect_uri=https%3A%2F%2Fonehit9.github.io%2F&code=57689a6cd5934fedd66f46effeeae10f542e8a0a15d4dc235dc0067c6e0c6003842b3e22&grant_type=authorization_code
+
+
+
+
 
 https://onehit9.github.io/
 
