@@ -4,7 +4,7 @@
 
 
 
-https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=http://localhost:8080/&response_type=token
+https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&response_type=code
 
 
 https://joypinkgom.tistory.com/139?category=874360
@@ -16,13 +16,28 @@ https://www.tistory.com/oauth/authorize?
   &response_type=code
   &state={state-param}
 
+https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=&response_type=code
+
+
 
 https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=https%3A%2F%2Fgoodsaem.tistory.com%2F&response_type=code
 
 https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=https%3A%2F%2Fonehit9.github.io%2F&response_type=code
 
 
-https://www.tistory.com/oauth/access_token?client_id=b90feeb40c82948b7da73389d1292788&client_secret=&redirect_uri=https%3A%2F%2Fonehit9.github.io%2F&code=57689a6cd5934fedd66f46effeeae10f542e8a0a15d4dc235dc0067c6e0c6003842b3e22&grant_type=authorization_code
+https://www.tistory.com/oauth/access_token?client_id=b90feeb40c82948b7da73389d1292788&client_secret=b90feeb40c82948b7da73389d12927880c9a8a58c54f20f2e3da5948d5da42633e5302fd&redirect_uri=https%3A%2F%2Fonehit9.github.io%2F&code=57689a6cd5934fedd66f46effeeae10f542e8a0a15d4dc235dc0067c6e0c6003842b3e22&grant_type=authorization_code
+
+
+
+https://www.tistory.com/oauth/access_token?client_id=b90feeb40c82948b7da73389d1292788&client_secret=b90feeb40c82948b7da73389d12927880c9a8a58c54f20f2e3da5948d5da42633e5302fd&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&code=dd21e3115b99a5d343a1c38ed46ee7679f866eb32a4cd44933d9d49d14be56cd5c07d921&grant_type=authorization_code
+
+
+
+https://www.tistory.com/oauth/authorize?client_id=b90feeb40c82948b7da73389d1292788&redirect_uri=http%3A%2F%2Flocalhost%3A7070%2F&response_type=code
+
+https://www.tistory.com/oauth/access_token?client_id=b90feeb40c82948b7da73389d1292788&client_secret=b90feeb40c82948b7da73389d12927880c9a8a58c54f20f2e3da5948d5da42633e5302fd&redirect_uri=http%3A%2F%2Flocalhost%3A7070%2F&code=42e53051f2e444db9f5d5ec46219301a64067311d741bd29242ba4500dd0e55c0a8cb0ec&grant_type=authorization_code
+
+f3db78b540962c8bb15adf636427f3bf_e6ca7ae17bf473defe319a25db7efcc9
 
 
 
